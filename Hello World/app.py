@@ -36,6 +36,13 @@ print ('*' * 10)
 # print(age)
 
 # Mini Assignment
-weight_lbs = input('Weight (lbs): ')
-weight_kg = int(weight_lbs) * 0.45
-print(weight_kg)
+# weight_lbs = input('Weight (lbs): ')
+# weight_kg = int(weight_lbs) * 0.45
+# print(weight_kg)
+
+course = 'Python for Beginners'
+# print(course[-1])
+# print(course[0:3])
+# another = course[:]
+# print(course)
+
