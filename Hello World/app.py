@@ -40,9 +40,16 @@ print ('*' * 10)
 # weight_kg = int(weight_lbs) * 0.45
 # print(weight_kg)
 
-course = 'Python for Beginners'
+#String
+# course = 'Python for Beginners'
 # print(course[-1])
 # print(course[0:3])
 # another = course[:]
 # print(course)
 
+#Formatting String
+# first = 'John'
+# last = 'Smith'
+# message = first + ' [' + last + '] is a coder'
+# msg = f'{first} [{last}] is a coder'
+# print(msg)
