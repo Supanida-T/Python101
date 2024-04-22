@@ -21,5 +21,10 @@ print ('*' * 10)
 # print(is_new_patient) 
 
 #Basic function
+# name = input('What is your name? ')
+# print('Hi ' + name)
+
+#Two function
 name = input('What is your name? ')
-print('Hi ' + name)
+favorite_color = input('What is your favorite color? ')
+print(name  + ' Likes ' + favorite_color)
