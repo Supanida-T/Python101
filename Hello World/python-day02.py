@@ -120,3 +120,13 @@
 # coordinates = (1, 2, 3)
 # x, y, z = coordinates 
 # print(y)
+
+#Dictionaries
+# customer = {
+# "name": "Tonmint",
+# "age": 20,
+# "is_verified": True
+# }
+# customer["birthday"] = "Jan 1 1980"
+# print(customer["birthday"])
+
