@@ -72,3 +72,15 @@
 #         output += 'x'
 #     print(output)
 
+#Lists
+# names = ['Tonmint', 'Tar', 'Mosh', 'Sarah', 'Bob']
+# names[0] = 'Jon'
+# print(names)
+# print(names[2:4])
+
+# numbers = [3, 6, 2, 8, 4, 10]
+# max = numbers[0]
+# for number in numbers:
+#     if number > max:
+#         max = number
+# print(max)
