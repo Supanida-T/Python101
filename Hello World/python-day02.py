@@ -141,3 +141,14 @@
 # for word in words:
 #     output += emojis.get(word, words) + " "
 # print(output)
+
+#Functions
+# def greet_user(name):
+#     name = "John"
+#     print(f'Hi {name}')
+#     print('Welcome aboard')
+    
+    
+# print("Start")
+# greet_user("John")
+# print("Finish")
