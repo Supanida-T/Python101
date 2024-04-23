@@ -130,3 +130,14 @@
 # customer["birthday"] = "Jan 1 1980"
 # print(customer["birthday"])
 
+#Emoji Converter
+# message = input(">")
+# words = message.split(' ')
+# emojis = {
+#     ":)": "😀", 
+#     ":(": "😞"
+# }
+# output = ""
+# for word in words:
+#     output += emojis.get(word, words) + " "
+# print(output)
