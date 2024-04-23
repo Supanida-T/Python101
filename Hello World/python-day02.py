@@ -43,3 +43,19 @@
 #         break
 #     else:
 #         print("Sorry, I don't understad the command")
+
+#For Loop
+# for item in ['Tonmint', 'Tar', 'Not']:
+#     print(item)
+    
+# for item in range(10):
+#     print(item)
+    
+# for item in range(5, 10):
+#     print(item)
+
+# prices = [10, 20, 30]
+# total = 0
+# for price in prices:
+#     total = total += price
+# print(f"Total: {total}")
