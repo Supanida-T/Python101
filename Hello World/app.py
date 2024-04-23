@@ -1,8 +1,8 @@
 #Basic print Command
-print ("Tonmint")
-print (' o---- ')
-print (' ||||')
-print ('*' * 10)
+# print ("Tonmint")
+# print (' o---- ')
+# print (' ||||')
+# print ('*' * 10)
 
 # #Basic Variables
 # price = 10
@@ -53,3 +53,48 @@ print ('*' * 10)
 # message = first + ' [' + last + '] is a coder'
 # msg = f'{first} [{last}] is a coder'
 # print(msg)
+
+#String Methods
+# course = 'Python for Beginners'
+# print(course.upper())
+# print(course.lower())
+# print(course)
+# print(course.find('o'))
+
+# print(course.replace('P', 'J'))
+# print('Python' in course)
+
+# len()
+# course.upper()
+# course.lower()
+# course.title()
+# course.find()
+# course.replace()
+# '...' in course
+
+#Arithmetic Operations
+# print (10 + 3)
+# print (10 * 3)
+# print (10 / 3)
+# print (10 // 3)
+# print (10 % 3)
+# print (10 ** 3)
+
+# x = 10
+# x = x + 3
+# x += 3
+# print(x)
+
+#Operator Preedence
+# x = 10 + 3 * 2 ** 2
+# print(x)
+
+#Math Functions
+# import math
+# print(math.ceil(2.9))
+# print(math.floor(2.9))
+# x = 2.9
+# print(round (x))
+# print(abs (-2.9))
+
+#If Statements
