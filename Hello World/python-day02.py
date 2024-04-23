@@ -110,3 +110,13 @@
 #     if number not in uniques:
 #         uniques.append(number)
 # print(uniques)
+
+#Tuples
+# numbers = (1, 2, 3)
+# numbers [0] = 10
+# print(numbers[0])
+
+#Unpacking
+# coordinates = (1, 2, 3)
+# x, y, z = coordinates 
+# print(y)
