@@ -19,3 +19,14 @@
 
 # message = input(">")
 # print(emoji_converter(message))
+
+#Exceptions
+try:
+    age = int(input('Age: '))
+    income = 2000
+    risk = income / age
+    print(age)
+except ZeeroDivisionError:
+    print('Age cannot be 0.')
+except ValueError:
+    print('Invalid value')
