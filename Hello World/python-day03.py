@@ -71,3 +71,20 @@
 # point = Point(10, 20)
 # point.x = 11
 # print(point.x)
+
+#Inheritance
+# class Mammal:
+#     def bark(self):
+#         print('bark')
+        
+# class Dog(Mammal):
+#     pass
+
+# class Cat(Mammal):
+#     def be_annoying(self):
+#         print("annoying")
+        
+# cat1 = Cat()
+# cat1.walk()
+# dog1 =Dog()
+# dog1.walk()
