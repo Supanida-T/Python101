@@ -97,7 +97,7 @@
 
 # print(conveters.kg_to_lbs(70))
 
-# with Dorectories
+# Working with Directories
 # from pathlib import Path
 
 # path = Path("ecommerce")
