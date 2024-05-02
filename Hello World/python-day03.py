@@ -56,3 +56,18 @@
 # point2 = Point()
 # point2.x = 1
 # print(point2.x)
+
+#Constructors
+# class Point:
+#     def _init_(self, x, y):
+#         self.x = x
+#         self.y - y
+#     def move(self):
+#         print("move")
+        
+#     def draw(self):
+#         print("draw")
+              
+# point = Point(10, 20)
+# point.x = 11
+# print(point.x)
